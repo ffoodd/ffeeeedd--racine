@@ -53,7 +53,7 @@ Disallow: /*/feed
 # Désindexer les URL de commentaire (flux RSS inclus)
 Disallow: /*/comments
 
-# Indication du plan du site au format.xml
+# Indication du plan du site au format xml
 Sitemap: http://www.mon-domaine.fr/sitemap.xml
 
 
