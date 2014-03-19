@@ -34,12 +34,12 @@
 # Pages d'erreur personnalisées
 ########################################################################
 
-# ErrorDocument 401 /erreur/401.html
+# ErrorDocument 401 /401.php
 ErrorDocument 403 /403.php
 ErrorDocument 404 /404.php
-# ErrorDocument 408 /erreur/408.html
-# ErrorDocument 500 /erreur/500.html
-# ErrorDocument 503 /erreur/503.html
+# ErrorDocument 408 /408.php
+# ErrorDocument 500 /500.php
+# ErrorDocument 503 /503.php
 
 
 # Mode de compatibilité Internet Explorer
