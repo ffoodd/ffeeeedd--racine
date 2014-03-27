@@ -55,6 +55,7 @@ Disallow: /*/comments
 
 # Indication du plan du site au format xml
 Sitemap: http://www.mon-domaine.fr/sitemap.xml
+Sitemap: http://www.mon-domaine.fr/sitemap.xml.gz
 
 
 # Règles spécifiques pour certains robots
